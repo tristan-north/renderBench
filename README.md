@@ -1,2 +1,1 @@
-# renderBench
-3D Renderer benchmarking
+# 3D Renderer benchmarking
