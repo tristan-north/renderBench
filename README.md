@@ -12,6 +12,8 @@ Max Diffuse Depth: 3 (to match 3Delight default)
 Pixel Variance: 0.03 (to target the 10 min rendertime)  
 Min/Max Samples: 256/4096 (the defaults too low)  
 
+Each render was run for 10 mins.
+
 ## Results
 ![Renderman XPU](renderman_xpu.png)
 ![3Delight](3delight.png)
