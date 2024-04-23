@@ -14,13 +14,15 @@ Min/Max Samples: 256/4096 (the defaults too low)
 
 Each render was run for 10 mins.
 
-## Results
+## Results (10 min rendertime)
 ![Renderman XPU](renderman_xpu.png)
 ![3Delight](3delight.png)
 ![Renderman XPU - CPU Only](renderman_xpu_cpu.png)
 ![Renderman RIS](renderman_ris.png)
 
 
-
-
-
+## Results (15 min rendertime)
+![Renderman XPU](renderman_xpu_15min.png)
+![3Delight](3delight_15min.png)
+![Renderman XPU - CPU Only](renderman_xpu_cpu_15min.png)
+![Renderman RIS](renderman_ris_15min.png)
